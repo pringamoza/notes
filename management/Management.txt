@@ -90,6 +90,27 @@ Policies (broad in scope), rules (narrow in scope, defines how specific action s
 
 p.203
 
+Contingency plans define company responses to be taken in the case of emergencies and unexpected conditions.
+After defining the most probable negative events the scenarios are built for them. Typically there are several scenarios for each factor, ranging from the most optimistic to 
+the most pessimistic view. Building scenarios allows to act fast when something happens due to it was predicted and a plan was created.
+
+How to handle crisis when it occurs.
+1. Designate a crisis management team and spokeperson
+2. Prepare a plan that management team should perform.
+3. Set up an effective communication system
+
+There are two approaches to planning.
+1. Centralized planning. (Waterfall).
+Has that disadvantage that may be inaproppriate in fast-paced environment.
+2. Decentralized planning involves everyone in organization in the planning process. Employees become more commited following their own plans.
+Planning experts work directly with line managers and front-line employees.
+
+
+Stretch goals
+2. Performance dashboards. So everyone could see the progress.
+
+Sometimes you need to shame your employees to cheer them up. (not too often. Once in three months)
+p.215
 
 
 Ch7.
@@ -105,19 +126,24 @@ Competitive advantage is a thing that distincts organization from other companie
 Core competence is an activity that company does particularly well in comparison to competitors.
 
 
+Strategic management is the set of decisions and actions used to formulate and execute strategies that will provide advantages comparing to competitors.
+To formulate these decisions one must understand what changes and trends are occurring?
+Who are our customers? Who are our competitors?
 
 
+Strategy is a plan of action that describes resource allocation to gain competitive advantage and attaining the organization's goals.
+Competitive advantage refers to what sets the organization apart from others and provides it
+with a distinctive edge for meeting customer or client needs in the marketplace.
+Usually it's an accessibility to different resources (channels of distribution, technologies, logistics) allowing company to make it's product cheaper, better. 
+
+Core competency is something that company does especially well in comparison to it's competitors.
+Core competency must not be easy to imitate.
+A core competence may be in the area of superior research and development, expert technological know-how, process effi ciency, or exceptional customer service.
+
+Core competence may be in providing a superior service for large group meetings (for hotels), in focusing on high quality in a limited product line.
 
 
-
-
-
-
-
-
-
-
-
+Sometimes results of joint efforts surpass sum of results of separate parts.
 
 
 Vertical integration is the company expansion to businesses that produce supplies to their core business or go to distribution directly.
