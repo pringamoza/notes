@@ -1,0 +1,5 @@
+git init
+git add life
+git commit -m 'life folder commit'
+git remote add notes https://github.com/pringamoza/notes.git
+git push -u notes master
