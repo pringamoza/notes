@@ -31,3 +31,7 @@ git reset HEAD file
 
 # Unmodifying a Modified File
 git checkout -- "tmp/Git commands.txt"
+
+
+# add staged changes to previous commit
+git commit -m 'git commands' --amend
