@@ -1,5 +1,33 @@
+# create git repository in current directory
 git init
-git add life
+
+# stage directory and all its files
+git add dir
+
+# unstage file
+git rm somefile.txt
+
+# commit all staged files to local repository
 git commit -m 'life folder commit'
+
+
 git remote add notes https://github.com/pringamoza/notes.git
+
+# renaming remote
+git remote rename old_remote new_remote
+
+# commit to remote repository
 git push -u notes master
+
+
+
+
+# adds staged files to previous commit 
+git commit --amend
+
+# unstaging a staged file
+git reset HEAD file
+
+
+# Unmodifying a Modified File
+git checkout -- "tmp/Git commands.txt"
