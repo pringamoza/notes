@@ -33,5 +33,19 @@ git reset HEAD file
 git checkout -- "tmp/Git commands.txt"
 
 
+# remove not commited changes (creating patch)
+git stash 
+
+# returns list of available stashes
+git stash list
+
+
+# applies given stash
+git stash apply stash@{0}
+
+# drops stash
+git stash drop stash@{0}
+
+
 # add staged changes to previous commit
 git commit -m 'git commands' --amend
