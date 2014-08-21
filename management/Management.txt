@@ -194,7 +194,14 @@ Many new strategies require making changes in organizational structure: adding/c
 shifting manager's responsibilities and accountabilities (отчетность).
  
  
+3. Information and control systems.
+These systems help management to see what is going on. Collecting data helps managers predict future trends.
+
+4. Human resources.
+When designing structure of orgainization you may need new people who have skills to fit new strategy.
+Also cross-training employees may help, that enables them to perform a variety of functions.
  
+---------------------------------------------------------------------------------------------------------- 
 Tips for Effective Strategy Execution
  
 1. Build commitment to the strategy
@@ -204,15 +211,38 @@ for gaining commitment.
  
 2. Devise a clear execution plan.
 
+Without such a plan, managers and staff are likely to lose sight of the new strategy 
+when they return to the everyday demands of their jobs. For successful execution, translate
+the strategy into a simple, streamlined plan that breaks the implementation process into a
+series of short-term actions, with a timetable for each step.
 
+Everybody should be aware of how success will be measured and tracked, what resources will be required
+and how they will be allocated.
 
+4. Know your employees' knowledge and skills.
+People from your organization may already have all required skills to fit new strategy.
+So there is no need to search for people from somewhere else.
+Also some training may be useful to add some skills.
 
+5. Communication
+Managers should know how things are going, identify problems, and keep people informed about the
+organization’s progress. Barriers should be broken for effective communication.
 
+---------------------------------------------------------------------------------------------------------- 
 
+SWOT-analysis is about to understand companies Strengths (S), Weaknesses (W), Opportunities (O), Threats (T).
+S and W refers to internal environment, thus company may impact them.
+O and T refers to external environment, thus company has no impact to them.
 
+Strengths: characteristics of the business or project that give it an advantage over others.
+Weaknesses: characteristics that place the business or project at a disadvantage relative to others
+Opportunities: elements that the project could exploit to its advantage
+Threats: elements in the environment that could cause trouble for the business or project
 
  
-p.235
+p.243
+
+Ch8. Managerial Decision Making
 
 
 
