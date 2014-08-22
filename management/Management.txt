@@ -240,9 +240,63 @@ Opportunities: elements that the project could exploit to its advantage
 Threats: elements in the environment that could cause trouble for the business or project
 
  
-p.243
-
 Ch8. Managerial Decision Making
+
+Decision making is the process of identifying problems and opportunities and then resolving them.
+Programmed decisions are decisions for situations that occur often enough and it is possible to develop rules
+that may be applied in the future.
+
+
+Nonprogrammed decisions are made in response to situations that are unique,
+are poorly defi ned and largely unstructured, and have important consequences for the organization. 
+Many nonprogrammed decisions involve strategic planning because uncertainty is
+great and decisions are complex.
+
+
+p.248
+
+
+There are three strategies of decision making:
+1. Classical model is based on rational economic assumptions and manager beliefs about what ideal decision should be.
+There are 4 assumptions underlying this model:
+a. Problems are precisely formulated and defined. The goals are known and agreed on.
+b. All alternatives and the potential results of each are calculated.
+c. There is a criteria for decisions. For example, no losses allowed.
+d. The decision maker is rational and uses logic.
+
+Decision makers should be more rational and not rely entirely on personal preference in making decisions.
+The guidelines can be created. Thus classical model is about programmed decisions.
+
+2. Administrative model
+In case of uncertainty and ambiguity manager's rationality has bounds. 
+Organization and circumstances may be extremely complex. So managers
+have the time and ability to process only a limited amount of information with which to make decisions.
+
+In such case manager finds the first satisficing decision and don't waste time on further searches.
+Even if the better decision exists it may not fit because of time and expense of obtaining complete information.
+Assumptions of administrative model:
+a. Decision goals are vague and conflicting. Managers can't come up with adjusted decision.
+Problems and opportunities are unknown.
+b. Rational procedures are not always used because they can't capture the complexity of challenge.
+c. Manager's resources are limited because of human, information, resource constraints.
+d. Managers settle for a satisficing rathe than a maximizing solution, partly
+because they have limited information and partly because they have only vague
+criteria for what constitutes a maximizing solution.
+
+
+So here comes intuition. It represents a quick apprehension of a decision situation based on past experience but
+without conscious thought.
+Managers need to take a balanced approach by considering both rationality and intuition as important components of effective
+decision making
+
+
+p.252
+
+
+
+
+
+
 
 
 
