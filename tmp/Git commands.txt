@@ -19,7 +19,8 @@ git remote rename old_remote new_remote
 # commit to remote repository
 git push -u notes master
 
-
+# fetches changes from remote and merge them
+git pull notes
 
 
 # adds staged files to previous commit 
