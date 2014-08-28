@@ -1,7 +1,10 @@
 Richard Daft - Management.
 
-Ch1.  
- 
+---------------- 
+INTRODUCTION TO MANAGEMENT
+Ch1. Innovative Management
+----------------  
+
 Management is the art of getting things done through people.
 As a manager, your job is to create the
 environment and conditions that engage other people in goal accomplishment.
@@ -37,11 +40,12 @@ Controlling means
 monitoring employees' activities, determining whether the organization is on target
 toward its goals, and making corrections as necessary.
 
-p38
-
 p189
 
-Ch6.
+---------------- 
+PLANNING
+Ch6. Managerial Planning and Goal Setting
+---------------- 
 
 Goals and plans enhance employees'
 motivation and commitment by reducing uncertainty and clarifying what they
@@ -112,8 +116,10 @@ Stretch goals
 Sometimes you need to shame your employees to cheer them up. (not too often. Once in three months)
 p.215
 
-
-Ch7.
+----------------
+PLANNING 
+Ch7. Strategy Formulation and Implementation
+---------------- 
 
 Strategic management refers to the set of decisions and actions used to formulate
 and execute strategies that will provide a competitively superior fit between the
@@ -239,8 +245,10 @@ Weaknesses: characteristics that place the business or project at a disadvantage
 Opportunities: elements that the project could exploit to its advantage
 Threats: elements in the environment that could cause trouble for the business or project
 
- 
+---------------- 
+PLANNING
 Ch8. Managerial Decision Making
+---------------- 
 
 Decision making is the process of identifying problems and opportunities and then resolving them.
 Programmed decisions are decisions for situations that occur often enough and it is possible to develop rules
@@ -248,7 +256,7 @@ that may be applied in the future.
 
 
 Nonprogrammed decisions are made in response to situations that are unique,
-are poorly defi ned and largely unstructured, and have important consequences for the organization. 
+are poorly defined and largely unstructured, and have important consequences for the organization. 
 Many nonprogrammed decisions involve strategic planning because uncertainty is
 great and decisions are complex.
 
@@ -279,7 +287,7 @@ a. Decision goals are vague and conflicting. Managers can't come up with adjuste
 Problems and opportunities are unknown.
 b. Rational procedures are not always used because they can't capture the complexity of challenge.
 c. Manager's resources are limited because of human, information, resource constraints.
-d. Managers settle for a satisficing rathe than a maximizing solution, partly
+d. Managers settle for a satisficing rather than a maximizing solution, partly
 because they have limited information and partly because they have only vague
 criteria for what constitutes a maximizing solution.
 
@@ -287,18 +295,163 @@ criteria for what constitutes a maximizing solution.
 So here comes intuition. It represents a quick apprehension of a decision situation based on past experience but
 without conscious thought.
 Managers need to take a balanced approach by considering both rationality and intuition as important components of effective
-decision making
+decision making.
 
 
 p.252
 
+3. Political model
+When making big decisions it's hard for managers to come up with common decision.
+Political model is about making coalitions.
+Political model assumptions: 
+a. Organizations are made up of groups with diverse interests, goals, and values. Managers disagree about problem priorities and may not understand or share the goals and interests of other managers.
+b. Information is ambiguous and incomplete. The attempt to be rational is limited by the complexity of many problems as well as personal and organizational constraints.
+c. Managers do not have the time, resources, or mental capacity to identify all dimensions
+of the problem and process all relevant information. Managers talk to each
+other and exchange viewpoints to gather information and reduce ambiguity.
+d. Managers engage in the push and pull of debate to decide goals and discuss alternatives.
+Decisions are the result of bargaining and discussion among coalition
+members.
+
+
+Decision making process:
+1. Recognition of Decision Requirement
+Decision should be made when organizational goals have not been achieved. The results are below expectations.
+
+2. Diagnosis and Analysis of Causes
+When problem is recognized it is time to know when and where it has occurred?
+How it occurred? What is the urgency of the problem?
+
+3. Development of Alternatives
+In highly uncertain environment managers may come up only with one or two solutions that satisfice.
+But some studies find that limiting the search for alternatives is a primary cause of decision failure in organizations.
+
+
+4. Selection of Desired Alternative
+Select one of developed alternatives.
+
+5. Implementation of Chosen Alternative
+Similar to strategy execution in chapter 7.
+Managers should believe in what they are doing. That increases commitment of their employees.
+
+
+6. Evaluation and Feedback
+Gathering the information that tells how well decision is implemented.
+
+
+
+Decision making styles.
+1. Directive style. 
+The directive style is used by people who prefer simple, clear-cut solutions to problems.
+Managers who use this style often make decisions quickly because they do
+not like to deal with a lot of information and may consider only one or two alternatives.
+People who prefer the directive style generally are efficient and rational
+and prefer to rely on existing rules or procedures for making decisions.
+
+2. Analytical style.
+Managers with an analytical style like to consider complex solutions based on as
+much data as they can gather. These individuals carefully consider alternatives
+and often base their decisions on objective, rational data from management control
+systems and other sources. They search for the best possible decision based on
+the information available.
+
+3. Conceptual style.
+People who tend toward a conceptual style also like to consider a broad amount of
+information. However, they are more socially oriented than those with an analytical
+style and like to talk to others about the problem and possible alternatives for
+solving it. Managers using a conceptual style consider many broad alternatives,
+rely on information from both people and systems, and like to solve problems
+creatively.
+
+4. Behavioral style.
+The behavioral style is often the style adopted by managers having a deep concern
+for others as individuals. Managers using this style like to talk to people one-onone
+and understand their feelings about the problem and the effect of a given decision on them.
+
+
+Reasons of bad decisions:
+1. Being influenced by initial impressions.
+2. Justifying past decisions.
+It is hard to close failed project if millions were poured in it.
+3. Seeing what you want to see.
+It is good to have a devil's advocate that will show other options or make you sure you're doing right.
+4. Perpetuating the status quo. Managers may base decisions on what has worked
+in the past and fail to explore new options, dig for additional information, or
+investigate new technologies.
+5. Framing of the problem. 
+E.g. gain 100k with 100% chance and gain 600k with 33% chance.
+Or lose 500k with 100% chance and lose 400k with 67% chance.
+The choice depends on how problem is set.
+6. Overconfidence
+When uncertainty is high, managers
+may unrealistically expect that they can successfully predict outcomes and hence
+select the wrong alternative.
+
+
+Evidence-based management.
+1. Demand evidence.
+Fake customers in the shop. Fake calls to support.
+2. Five Whys
+The first why generally produces a superficial explanation. Each subsequent why probes deeper.
+3. Do a Post-Mortem.
+Continuos learning in the after-action review.
+
+
+Group decisions.
+1. Brainstorming.
+People come up with all ideas they got. No critics. Just ideas.
+In fact, one study found that when four people are asked to “brainstorm” individually, they typically come up
+with twice as many ideas as a group of four brainstorming together.
+
+2. Rigorous Debates
+Person vs person debate.
+Group vs group debate.
+
+CEO of MicroAge often plays the devil’s advocate, changing his position in the middle of a debate to ensure
+that other executives don’t just go along with his opinions
+
+3. Avoid groupthink
+Groupthink refers to the tendency of people in groups to suppress contrary opinions. When people slip into groupthink, 
+the desire for harmony outweighs concerns over decision quality
+
+4. Know when to retreat.
+Don't hide negative information. If it's better to retreat - retreat.
+
+Essentials:
+
+Decision making should involve six basic steps: problem recognition, diagnosis
+of causes, development of alternatives, choice of an alternative, implementation
+of the alternative, and feedback and evaluation.
+
+
+Biases to watch out for include being
+influenced by initial impressions, trying to correct or justify past flawed decisions,
+seeing only what you want to see, perpetuating the status quo, being influenced
+by problem framing, and being overconfident.
+
+
+p262
+----------------
+ORGANIZING
+Ch9. Designing Adaptive Organizations
+----------------
 
 
 
 
+----------------
+ORGANIZING
+Ch10. Managing Change and Innovation
+----------------
 
+----------------
+ORGANIZING
+Ch11. Managing Human Resources
+----------------
 
-
-
+----------------
+ORGANIZING
+Ch12. Managing Diversity
+----------------
 
 
