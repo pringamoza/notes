@@ -436,6 +436,161 @@ ORGANIZING
 Ch9. Designing Adaptive Organizations
 ----------------
 
+Organizing is the deployment of organizational resources to achieve strategic goals.
+
+Organization structure is defined as: 
+1. the set of formal tasks assigned to individuals and departments;
+2. formal reporting relationships, including lines of authority, decision responsibility, 
+number of hierarchical levels, and span of managers' control; and 
+3. the design of systems to ensure effective coordination of
+employees across departments
+
+
+Ensuring coordination across departments is just as critical as defining the departments to begin with.
+
+Organization chart, which is the visual representation of an organization's structure.
+Every employee has an appointed task, line of authority, and decision responsibility.
+
+Work specialization is the degree to which organizational tasks are subdivided into separate jobs.
+Every employee has little, well defined job.
+With too much specialization employees have to perform only a single, boring job.
+
+Chain of command.
+
+The chain of command is an unbroken line of authority that links all persons in an
+organization and shows who reports to whom. Army is a great example.
+Field Marshal -> General -> Colonel -> Lieutenant -> Soldier
+
+
+Authority is the formal and legitimate right
+of a manager to make decisions, issue orders, and allocate resources to achieve organizationally
+desired outcomes. Authority is distinguished by three characteristics:
+1. Authority is vested in organizational positions, not people. Managers have
+authority because of the positions they hold, and other people in the same positions
+would have the same authority.
+2. Barnard's acceptance theory of authority argues that a manager has authority only if 
+subordinates choose to accept his commands. If subordinates refuse to obey because 
+the order is outside their zone of acceptance, a manager’s authority disappears.
+3. Authority flows down the vertical hierarchy. Positions at the top of the hierarchy
+are vested with more formal authority than are positions at the bottom.
+
+
+Responsibility is the flip side of the authority coin. Responsibility is the duty to
+perform the task or activity an employee has been assigned.
+
+When managers have responsibility for task outcomes but little authority, 
+the job is possible but difficult. They rely on persuasion and luck. 
+When managers have authority exceeding responsibility, they may become 
+tyrants, using authority toward frivolous outcomes. 
+
+Accountability means that person with some authority and responsibility has to report task 
+outcomes to those who are above him in the command chain.
+For organizations to function well, everyone needs to know what they are accountable for 
+and accept the responsibility and authority for performing it.
+
+Delegation is the process managers use to
+transfer authority and responsibility to positions below them in the hierarchy.
+
+When delegating the task use following recommendations:
+1. Delegate the whole task.
+Dividing task into smaller pieces and assigning them to different people is bad
+because of communication problems, not equal level of motivation, possible delays.
+2. Select the right person. Not all employees have the same capabilities and degree of motivation.
+3. Ensure that authority equals responsibility.
+Merely assigning a task is not effective delegation.
+Managers often load subordinates with increased responsibility but do not extend their
+decision-making range.
+4. Give thorough instruction. 
+Successful delegation includes information on what, when, why, where, who, and how. 
+The subordinate must clearly understand the task and the expected results.
+It is good to write down all requirements and consents. Task should be self-contained.
+5. Maintain feedback. 
+Feedback means keeping open lines of communication with the subordinate
+to answer questions and provide advice, but without exerting too much control.
+Even a thorough instruction may contain some ambiguity. It should be cleared.
+
+
+
+Line departments perform tasks that reflect the organization’s primary goal and mission.
+
+
+Staff departments include all those that provide specialized skills in support of
+line departments. They typically include marketing, labor relations, research, accounting, 
+and human resources.
+
+
+Line authority means that people in management positions have formal authority
+to direct and control immediate subordinates. Staff authority is narrower and
+includes the right to advise, recommend, and counsel in the staff specialists' area
+of expertise.
+
+
+The span of management is the number of employees reporting to a supervisor.
+
+Traditional views of organization design recommended a span of management of about 
+seven subordinates per manager.
+
+
+A tall structure has an overall narrow span and more hierarchical levels. 
+A flat structure has a wide span, is horizontally dispersed, 
+and has fewer hierarchical levels.
+The trend in recent years has been toward wider spans of control as a way to facilitate delegation.
+
+Having too many hierarchical levels and narrow spans of control is a common
+structural problem for organizations.
+
+Centralization means that decision authority is located near the top of the
+organization. With decentralization, decision authority is pushed downward to lower
+organization levels.
+
+Greater change and uncertainty in the environment are usually associated with
+decentralization. Local managers can handle troubles more effectively and faster than
+if the problem is explained to and solved by top-manager.
+
+In times of crisis or risk of company failure, authority may be centralized at the
+top. Strategy decisions should be made at the top.
+
+Departmentalization is the basis on which individuals are grouped into departments
+and departments into the total organization.
+
+p.251
+
+
+
+Think of division as an autonomous business that perform different tasks, use different technologies or serve different customers.
+This approach is mainly used in large corporations. Each department is focused on a single product line or customer segment.
+
+The primary difference between divisional and functional structures is that the
+chain of command from each function converges lower in the hierarchy.
+In a divisional structure, differences of opinion among research and development, marketing,
+manufacturing, and finance would be resolved at the divisional level rather than by
+the president. Thus, the divisional structure encourages decentralization. Decision
+making is pushed down at least one level in the hierarchy, freeing the president and
+other top managers for strategic planning.
+
+
+An alternative for assigning divisional
+responsibility is to group company activities by geographic region or customer group.
+Many companies are organized into regional divisions in North America, Europe, Latin America, 
+the Far East (Asia), and the South Pacific (Australia and Oceania).
+
+
+Matrix approach.
+The matrix approach combines aspects of both functional and divisional
+structures simultaneously in the same part of the organization.
+The main purpose of matrix approach is to improve horizontal coordination and information
+sharing. Matrix has dual lines of authority. 
+Two-boss employees report to two supervisors simultaneously: to product manager and functional boss,
+and resolve conflict-demands from the matrix bosses.
+
+The top leader oversees both the product and functional chains of command. 
+His responsibility is to maintain a power balance between the two sides of the matrix. 
+If disputes arise between them, the problem will be kicked upstairs to the top leader.
+
+Team Approach
+
+286
+
 
 
 
