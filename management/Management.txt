@@ -437,6 +437,7 @@ Ch9. Designing Adaptive Organizations
 ----------------
 
 Organizing is the deployment of organizational resources to achieve strategic goals.
+<<<<<<< HEAD
 
 Organization structure is defined as: 
 1. the set of formal tasks assigned to individuals and departments;
