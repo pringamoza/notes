@@ -437,7 +437,6 @@ Ch9. Designing Adaptive Organizations
 ----------------
 
 Organizing is the deployment of organizational resources to achieve strategic goals.
-
 Organization structure is defined as: 
 1. the set of formal tasks assigned to individuals and departments;
 2. formal reporting relationships, including lines of authority, decision responsibility, 
@@ -553,7 +552,20 @@ top. Strategy decisions should be made at the top.
 Departmentalization is the basis on which individuals are grouped into departments
 and departments into the total organization.
 
-p.251
+There are five approaches:
+functional, divisional and matrix are traditional approaches that rely on the chain of 
+command to define departmental groupings and reporting relationships along the hierarchy.
+
+The use of teams and virtual network are innovative approaches.
+
+Functional structure is the grouping of positions into departments based
+on similar skills, expertise, work activities, and resource use.
+E.g. financial department, accounting department, manufacturing department and so on.
+
+Divisional structure is also called product structure.
+Divisional structure occurs when departments are grouped together based on similar organizational
+outputs.
+In each department there are accounting group, marketing group, hr group and so on.
 
 
 
