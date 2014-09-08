@@ -601,8 +601,25 @@ If disputes arise between them, the problem will be kicked upstairs to the top l
 
 Team Approach
 
-286
+One approach to using teams in organizations is through cross-functional teams, 
+which consist of employees from various functional departments 
+who are responsible to meet as a team and resolve mutual problems. 
+Team members typically still report to their functional departments, 
+but they also report to the team, one member of whom may be the leader.
+Bright example of cross-functional teams may be seen in hospitals.
+Some patients are treated by nurse, doctor and dietitian to solve patient's problems.
 
+
+The second approach is to use permanent teams, groups of employees who
+are organized in a way similar to a formal department. Each team brings together
+employees from all functional areas focused on a specific task or project.
+Authority is pushed down to lower levels, and front-line employees are often given the freedom
+to make decisions and take action on their own.
+This approach is very similar to divisional structure. But projects come and go.
+
+With a team-based structure, the entire organization is made
+up of horizontal teams that coordinate their work and work directly with customers
+to accomplish the organization’s goals.
 
 
 
