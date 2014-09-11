@@ -708,13 +708,76 @@ between organization and employee is weak.
 
 291
 
+Coordination refers to the quality of collaboration across departments. 
+Without coordination, a company's left hand will not act in concert with the right hand, causing problems and conflicts. 
+Coordination is required regardless of whether the organization has a functional, divisional, or team structure.
 
+
+A task force is a temporary team or committee designed to solve a short-term problem involving several departments.
+Task force members represent their departments and share information that enables coordination.
+
+A cross-functional team furthers horizontal coordination because participants from several departments meet regularly to solve ongoing problems of common interest. 
+This team is similar to a task force except that it works with continuing rather than temporary problems and might exist for several years.
+Team members think in terms of working together for the good of the whole rather than just for their own department.
+
+Companies also use project managers to increase coordination between functional departments. 
+A project manager is a person who is responsible for coordinating the activities of several departments for the completion of a specific project.
+
+The distinctive feature of the project manager position is that the person is not a member of one of the departments being coordinated. 
+Project managers are located outside of the departments and have responsibility for coordinating several departments to achieve desired project outcomes.
+The project manager has authority over the project but not over the people assigned to it.
+The PM is responsible for coordination and communication with assigned team members, but department managers retain line authority over functional employees.
+Project managers might also have titles such as product manager, integrator, program manager, or process owner. 
+Project managers need excellent people skills. 
+They use expertise and persuasion to achieve coordination among various departments, and their
+jobs involve getting people together, listening, building trust, confronting problems, and
+resolving confl icts and disputes in the best interest of the project and the organization.
+
+Product managers set budget goals, marketing targets, and strategies and obtain the cooperation from advertising, production, and sales personnel needed for implementing product strategy.
+
+Reengineering
+Reengineering, sometimes called business process reengineering, is the radical redesign of business processes 
+to achieve dramatic improvements in cost, quality, service, and speed.
+Because the focus of reengineering is on process rather than function, reengineering generally leads to a shift away from a strong vertical structure to one
+emphasizing stronger horizontal coordination and greater flexibility in responding to changes in the environment.
+
+A process is an organized group of related tasks that work together
+to transform inputs into outputs and create value. Common examples of processes
+include new product development, order fulfillment, and customer service.
+Reengineering frequently involves a shift to a horizontal team-based structure,
+as described earlier in this chapter. All the people who work on a particular process
+have easy access to one another so they can easily communicate and coordinate their
+efforts, share knowledge, and provide value to customers.
+Because reengineering is expensive, time consuming, and usually painful
+to implement, it seems best suited to companies that are facing serious competitive threats.
+
+
+
+Quiz. (300)
+10. Carnival Cruise Lines (CCL) provides pleasure cruises to the masses. Carnival has several ships and works on high volume/low price rather than offering luxury cruises. 
+What would you predict about the organization structure of a CCL ship compared with a company that had smaller ships for wealthy customers?
+
+Wealthy customers may require some specific service. Fresh fruits, drugs, unusual routes.
+Every luxury cruise may be considered as a project. While low cost cruises make their money on the big scale.
 
 
 ----------------
 ORGANIZING
 Ch10. Managing Change and Innovation
 ----------------
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ----------------
 ORGANIZING
