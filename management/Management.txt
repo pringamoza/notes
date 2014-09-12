@@ -769,13 +769,22 @@ Ch10. Managing Change and Innovation
 Research confirms that successful new ideas are generally those that are backed by someone who believes in
 the idea wholeheartedly and is determined to convince others of its value.
 
+The inventor comes up with a new idea and understands its technical value but has neither the ability 
+nor the interest to promote it for acceptance within the organization. 
+The champion believes in the idea, confronts the organizational realities of costs and benefits, and gains the political
+and financial support needed to bring it to reality. 
+The sponsor is a high-level manager who approves the idea, protects the idea, and removes major organizational
+barriers to acceptance. 
+The critic counterbalances the zeal of the champion by
+challenging the concept and providing a reality test against hard-nosed criteria.
+The critic prevents people in the other roles from adopting a bad idea.
 
-316
-
-
-
-
-
+A new-venture team is a unit separate from the rest of the organization that is responsible for
+developing and initiating a major innovation.
+Whenever BMW Group begins developing
+a new car, the project's team members—from engineering, design, production,
+marketing, purchasing, and finance are relocated to a separate Research and Innovation Center, 
+where they work collaboratively to speed the new product to market.
 
 
 
