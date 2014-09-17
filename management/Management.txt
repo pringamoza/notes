@@ -760,6 +760,9 @@ What would you predict about the organization structure of a CCL ship compared w
 Wealthy customers may require some specific service. Fresh fruits, drugs, unusual routes.
 Every luxury cruise may be considered as a project. While low cost cruises make their money on the big scale.
 
+Quote by Boris Kagarlitsky
+Чем более «гибкой» является бизнес-структура, тем более она склонна концентрироваться на краткосрочных задачах, жертвуя долгосрочными.
+
 
 ----------------
 ORGANIZING
@@ -781,13 +784,79 @@ The critic prevents people in the other roles from adopting a bad idea.
 
 A new-venture team is a unit separate from the rest of the organization that is responsible for
 developing and initiating a major innovation.
-Whenever BMW Group begins developing
-a new car, the project's team members—from engineering, design, production,
+Whenever BMW Group begins developing a new car, 
+the project's team members—from engineering, design, production,
 marketing, purchasing, and finance are relocated to a separate Research and Innovation Center, 
 where they work collaboratively to speed the new product to market.
 
-
-
+Two key aspects of change in organizations
+are changing products and technologies and changing people and culture.
+ 
+ 
+ 
+There are several methods to improve internal relationship in company:
+1. Team-building activities.
+Series of exercises can be used with members of cross-departmental
+teams to help them learn to act and function as a team.
+ 
+2. Survey-feedback activities.
+Survey feedback begins with a questionnaire distributed
+to employees on values, climate, participation, leadership, and group cohesion
+within their organization.
+ 
+Resistance to Change
+ 
+1. People typically resist a change they believe conflicts with their self-interests.
+A proposed change in job design, structure, or technology may lead to an increase
+in employees' workload. The fear of personal loss is perhaps the biggest 
+obstacle to organizational change.
+ 
+2. Lack of Understanding and Trust. Employees
+often distrust the intentions behind a change or do not understand the intended purpose of a change. 
+If previous working relationships with an idea champion have been negative, resistance may occur.
+ 
+3. Uncertainty. Uncertainty is the lack of information about future events. 
+It represents a fear of the unknown. 
+Uncertainty is especially threatening for employees who have a
+low tolerance for change and fear anything out of the ordinary.
+ 
+But there are some means to overcome this resistance.
+1. Communication and Education.
+Education is especially important when the change involves new
+technical knowledge or users are unfamiliar with the idea.
+Communication and education are used when solid information about the change is needed 
+by users and others who may resist implementation.
+People are much more likely to change their behavior when they
+both understand the rational reasons for doing so and see a picture of change that
+influences their feelings.
+ 
+2. Participation.
+Participation involves users and potential resisters in designing the change. 
+This approach is time consuming, but it pays off because users understand
+and become committed to the change.
+ 
+Ex. You come up to the team with a problem and ask for help.
+When discussing you push your team-members to the solution you already have.
+Then you fix the solution and if you meet some resistance you press
+insurgents with fact that it is our common decision, so we need to lean to it.
+Also the person who proposed this solution may become it's champion.
+ 
+3. Negotiation.
+Negotiation is a more formal means of achieving cooperation. 
+Negotiation uses formal bargaining to win acceptance and approval of a desired change.
+ 
+4. Coercion.
+Coercion means that managers use formal power to force employees to change. 
+Resisters are told to accept the change or lose rewards or even their jobs.
+ 
+5. Top Management Support.
+Top management support symbolizes to all employees that the change is important for the organization. 
+One survey found that 80 percent of companies that are successful innovators 
+have top executives who frequently reinforce the importance of innovation both verbally and symbolically
+ 
+Implementation of change first requires that people see a need for change.
+Managers should be prepared to encounter resistance. Some typical reasons for
+resistance include self-interest, lack of trust, uncertainty, and conflicting goals.
 
 ----------------
 ORGANIZING
