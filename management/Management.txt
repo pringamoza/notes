@@ -871,8 +871,36 @@ Human capital refers to the economic value of the combined knowledge,
 experience, skills, and capabilities of employees.
 
 
-342
+Methods to assess performance
 
+A recent trend in performance appraisal is called 360-degree feedback, a process
+that uses multiple raters, including self-rating, as a way to increase awareness
+of strengths and weaknesses and guide employee development. Members of the
+appraisal group may include supervisors, coworkers, and customers, as well as the
+individual, thus providing appraisal of the employee from a variety of perspectives. 
+One study found that 26 percent of companies used some type of multirater performance
+appraisal.
+
+
+Another alternative performance-evaluation method is the performance review
+ranking system. This method is increasingly coming under fire because it essentially
+evaluates employees by pitting them against one another. As most commonly used,
+a manager evaluates his or her direct reports relative to one another and categorizes
+each on a scale, such as A = outstanding performance (20 percent), B = high-middle
+performance (70 percent), or C = in need of improvement (10 percent).
+
+Applebee, the restaraunt chain in USA, is the company with high turnover of hourly employees.
+They apply the ranking system, but the system is not the basis for firing low-ranking employees, as they usually
+leave soon enough anyway. Its value lies in helping managers focus their retention
+efforts on the more valuable employees.
+
+
+Evaluation should take place in different dimensions. That allows ranker to be less biased in his appraisal.
+
+An exit interview is an interview conducted with departing employees to determine why they are leaving.
+
+
+372
 
 
 ----------------
