@@ -1,9 +1,9 @@
 Richard Daft - Management.
 
----------------- 
+------------------------------------------------------------------------------------------------ 
 INTRODUCTION TO MANAGEMENT
 Ch1. Innovative Management
-----------------  
+------------------------------------------------------------------------------------------------  
 
 Management is the art of getting things done through people.
 As a manager, your job is to create the
@@ -42,10 +42,10 @@ toward its goals, and making corrections as necessary.
 
 p189
 
----------------- 
+------------------------------------------------------------------------------------------------
 PLANNING
 Ch6. Managerial Planning and Goal Setting
----------------- 
+------------------------------------------------------------------------------------------------
 
 Goals and plans enhance employees'
 motivation and commitment by reducing uncertainty and clarifying what they
@@ -116,10 +116,10 @@ Stretch goals
 Sometimes you need to shame your employees to cheer them up. (not too often. Once in three months)
 p.215
 
-----------------
+------------------------------------------------------------------------------------------------
 PLANNING 
 Ch7. Strategy Formulation and Implementation
----------------- 
+------------------------------------------------------------------------------------------------ 
 
 Strategic management refers to the set of decisions and actions used to formulate
 and execute strategies that will provide a competitively superior fit between the
@@ -245,10 +245,10 @@ Weaknesses: characteristics that place the business or project at a disadvantage
 Opportunities: elements that the project could exploit to its advantage
 Threats: elements in the environment that could cause trouble for the business or project
 
----------------- 
+------------------------------------------------------------------------------------------------
 PLANNING
 Ch8. Managerial Decision Making
----------------- 
+------------------------------------------------------------------------------------------------
 
 Decision making is the process of identifying problems and opportunities and then resolving them.
 Programmed decisions are decisions for situations that occur often enough and it is possible to develop rules
@@ -431,10 +431,10 @@ by problem framing, and being overconfident.
 
 
 p262
-----------------
+------------------------------------------------------------------------------------------------
 ORGANIZING
 Ch9. Designing Adaptive Organizations
-----------------
+------------------------------------------------------------------------------------------------
 
 Organizing is the deployment of organizational resources to achieve strategic goals.
 Organization structure is defined as: 
@@ -764,10 +764,10 @@ Quote by Boris Kagarlitsky
 Чем более «гибкой» является бизнес-структура, тем более она склонна концентрироваться на краткосрочных задачах, жертвуя долгосрочными.
 
 
-----------------
+------------------------------------------------------------------------------------------------
 ORGANIZING
 Ch10. Managing Change and Innovation
-----------------
+------------------------------------------------------------------------------------------------
 
 Research confirms that successful new ideas are generally those that are backed by someone who believes in
 the idea wholeheartedly and is determined to convince others of its value.
@@ -858,10 +858,10 @@ Implementation of change first requires that people see a need for change.
 Managers should be prepared to encounter resistance. Some typical reasons for
 resistance include self-interest, lack of trust, uncertainty, and conflicting goals.
 
-----------------
+------------------------------------------------------------------------------------------------
 ORGANIZING
 Ch11. Managing Human Resources
-----------------
+------------------------------------------------------------------------------------------------
 
 In many companies, especially those that rely more on employee information,
 creativity, knowledge, and service rather than on production machinery,
@@ -900,12 +900,74 @@ Evaluation should take place in different dimensions. That allows ranker to be l
 An exit interview is an interview conducted with departing employees to determine why they are leaving.
 
 
-372
-
-
-----------------
+------------------------------------------------------------------------------------------------
 ORGANIZING
 Ch12. Managing Diversity
-----------------
+------------------------------------------------------------------------------------------------
+This chapter is about management in multicurltural environment.
+
+------------------------------------------------------------------------------------------------
+LEADING
+Ch13. Dynamics of Behavior in Organizations
+------------------------------------------------------------------------------------------------
+
+Here are some things bad bosses do to create stress for their subordinates:
+1. Impose unreasonable demands and overwhelming workloads.
+2. Don't let people have a say in how they do their work.
+3. Create perpetual doubt about how well employees are performing.
+4. Refuse to get involved in confl icts between employees; let them work it out.
+5. Fail to give people credit for their contributions and achievements.
+6. Keep people guessing about what is expected of them.
+7. Bully and harass people to keep them on their toes.
+8. Don't allow people to form a community; tell them work isn’t a social club.
+
+
+------------------------------------------------------------------------------------------------
+LEADING
+Ch14. Leadership
+------------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------------
+LEADING
+Ch15. Motivating Employees
+------------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------------
+LEADING
+Ch16. Managing Communication
+------------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------------
+LEADING
+Ch17. Leading Teams
+------------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------------
+CONTROLLING
+Ch18. Managing Quality and Performance
+------------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------------
+CONTROLLING
+Ch19. Managing the Value Chain, Information Technology, and E-Business
+------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
