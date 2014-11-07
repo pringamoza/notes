@@ -1,1 +1,10 @@
 mvn archetype:generate -DgroupId=com.mycompany.app -DartifactId=my-app -DarchetypeArtifactId=maven-archetype-quickstart -DinteractiveMode=false
+
+
+mvn install -DskipTests
+
+cd C:\intel\wall
+mvn source:jar install -DskipTests
+
+run single test
+mvn -Dtest=ru.intelcom.cupra.scenarios.service.impl.ScenarioServiceImpl_Test test
