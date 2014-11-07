@@ -1,0 +1,106 @@
+﻿DOCS
+http://linux.die.net/man/1/ffmpega
+http://habrahabr.ru/post/171213/
+http://trac.ffmpeg.org/wiki
+http://www.ffmpeg.org/ffmpeg.html
+http://www.ffmpeg.org/documentation.html
+
+http://habrahabr.ru/post/119834/
+http://habrahabr.ru/post/43838/
+
+https://trac.ffmpeg.org/wiki/How%20to%20concatenate%20(join,%20merge)%20media%20filesffmpeg -i 1.mkv -y -f avi 1.avi
+
+
+
+ffmpeg -f concat -i mylist.txt -y -an -c copy concat.mkv
+
+
+
+
+
+
+ffmpeg -i 1.mkv -y -b 1200k -f avi 1.avi
+ffmpeg -i 1.mkv -y -ab 0k -vb 1200k -f avi 1.avi
+ffmpeg -i 1.mkv -y  -t 00:00:30 -f matroska 1-short.mkv
+
+
+ffmpeg -i 1.mkv -y  -t 00:00:10 -f matroska 1-short.mkv
+ffmpeg -i 2.mkv -y  -t 00:00:10 -f matroska 2-short.mkv
+ffmpeg -i "concat:1-short.mkv|2-short.mkv" -y -c copy concat.mkv
+
+ffmpeg -i 1.mkv -y 2.mkv
+
+
+
+ffmpeg -i 1.mkv -filter concat -y 2.mkv
+
+
+
+
+ffmpeg -i "concat:input1.mpg|input2.mpg|input3.mpg" -c copy output.mpg
+ffmpeg -i "concat:1.mkv|2.mkv" -y -c copy concat.mkv
+
+ffmpeg -i 1.mkv -i 2.mkv -y concat.mkv
+
+
+ffmpeg -i 1.mkv -i 2.mkv -y -vcodec copy -acodec copy -vcodec copy -acodec copy concat.mkv -newvideo -newaudio
+
+
+
+ffmpeg -i 1.mkv -y -an -vcodec copy 1.ts
+ffmpeg -i 2.mkv -y -an -vcodec copy 2.ts
+ffmpeg -i "concat:1.ts|2.ts" -y -an -vcodec copy concat.mkv
+
+
+ffmpeg -i 0.mkv -y -an -vcodec copy 0.ts
+ffmpeg -i 1.mkv -y -an -vcodec copy 1.ts
+ffmpeg -i 2.mkv -y -an -vcodec copy 2.ts
+ffmpeg -i 3.mkv -y -an -vcodec copy 3.ts
+ffmpeg -i 4.mkv -y -an -vcodec copy 4.ts
+ffmpeg -i 5.mkv -y -an -vcodec copy 5.ts
+ffmpeg -i 6.mkv -y -an -vcodec copy 6.ts
+ffmpeg -i 7.mkv -y -an -vcodec copy 7.ts
+ffmpeg -i 8.mkv -y -an -vcodec copy 8.ts
+ffmpeg -i 9.mkv -y -an -vcodec copy 9.ts
+ffmpeg -i "concat:0.ts|1.ts|2.ts|3.ts|4.ts|5.ts|6.ts|7.ts|8.ts|9.ts" -y -an -vcodec copy concat.mkv
+
+
+
+
+
+
+ffmpeg -i 1.mp4 -c copy audio.mp3 
+ffmpeg -i 1.mp4 -f mp3 -ab 192000 -vn 1.mp3
+The -i option in the above command is simple: it is the path to the input file. The second option -f mp3 tells ffmpeg that the ouput is in mp3 format. The third option i.e -ab 192000 tells ffmpeg that we want the output to be encoded at 192Kbps and -vn tells ffmpeg that we dont want video. The last param is the name of the output file.
+
+ffmpeg -i 1.mp4 -vn -ar 44100 -ac 2 -ab 192 -f mp3 sound.mp3
+-ar - set frequency
+
+ffmpeg -i 1.mp4 gif_anime.gif
+
+
+
+ffmpeg -i ponb.mp4 -f mp3 -ab 192000 -vn ponb.mp3
+ffmpeg -ss 20 -t 00:20:00 -i ponb.mp4 -y -f mp3 -ab 192000 -vn ponb3.mp3
+
+
+
+
+ffmpeg -i atbl.mp4 -f mp3 -ab 192000 -vn atbl.mp3
+ffmpeg -i atbl.mp4 -f mp3 -ab 48000 -vn atbl48.mp3
+
+
+ffmpeg -i atbl.mp4 -f mp3 -ab 128000 -vn atbl128.mp3
+ffmpeg -i atchr.mp4 -f mp3 -ab 128000 -vn atchr128.mp3
+ffmpeg -i ponb.mp4 -f mp3 -ab 128000 -vn atponb128.mp3
+ffmpeg -i atmi.mp4 -f mp3 -ab 128000 -vn atmi128.mp3
+ffmpeg -i at_2013.12.29.mp4 -f mp3 -ab 128000 -vn at_2013_12_29_128.mp3
+
+
+
+
+
+
+
+
+http://superuser.com/questions/323119/how-can-i-normalize-audio-using-ffmpeg
