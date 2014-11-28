@@ -3,3 +3,6 @@ git add life
 git commit -m 'life folder commit'
 git remote add notes https://github.com/pringamoza/notes.git
 git push -u notes master
+
+<h1>Header1</h1>
+<b>bold</b>
