@@ -731,7 +731,7 @@ Project managers might also have titles such as product manager, integrator, pro
 Project managers need excellent people skills. 
 They use expertise and persuasion to achieve coordination among various departments, and their
 jobs involve getting people together, listening, building trust, confronting problems, and
-resolving confl icts and disputes in the best interest of the project and the organization.
+resolving conflicts and disputes in the best interest of the project and the organization.
 
 Product managers set budget goals, marketing targets, and strategies and obtain the cooperation from advertising, production, and sales personnel needed for implementing product strategy.
 
@@ -915,7 +915,7 @@ Here are some things bad bosses do to create stress for their subordinates:
 1. Impose unreasonable demands and overwhelming workloads.
 2. Don't let people have a say in how they do their work.
 3. Create perpetual doubt about how well employees are performing.
-4. Refuse to get involved in confl icts between employees; let them work it out.
+4. Refuse to get involved in conflicts between employees; let them work it out.
 5. Fail to give people credit for their contributions and achievements.
 6. Keep people guessing about what is expected of them.
 7. Bully and harass people to keep them on their toes.
