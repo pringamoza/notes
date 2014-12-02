@@ -41,6 +41,10 @@ git stash
 git stash list
 
 
+# applies stash on the top(equivalent to the following)
+git stash pop
+
+
 # applies given stash
 git stash apply stash@{0}
 
