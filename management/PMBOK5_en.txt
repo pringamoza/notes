@@ -1,0 +1,41 @@
+PMBOK5
+p28
+
+Ch1. Intro
+PMBOK is recognized as a good practices.
+"Good practice" means there is general agreement that the
+application of the knowledge, skills, tools, and techniques can enhance the chances of success over many projects.
+
+"Good practice" does not mean that the knowledge described should always be applied uniformly to all projects; the
+organization and/or project management team is responsible for determining what is appropriate for any given project.
+
+
+What is a Project?
+A project is a temporary endeavor undertaken to create a unique product, service, or result. The temporary
+nature of projects indicates that a project has a definite beginning and end. The end is reached when the project’s
+objectives have been achieved or when the project is terminated because its objectives will not or cannot be met,
+or when the need for the project no longer exists. A project may also be terminated if the client (customer, sponsor,
+or champion) wishes to terminate the project.
+
+1.2.1. The Relationships Among Portfolios, Programs, and Projects
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
