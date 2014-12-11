@@ -17,13 +17,19 @@ objectives have been achieved or when the project is terminated because its obje
 or when the need for the project no longer exists. A project may also be terminated if the client (customer, sponsor,
 or champion) wishes to terminate the project.
 
-1.2.1. The Relationships Among Portfolios, Programs, and Projects
+What is Project Management?
+Project management is the application of knowledge, skills, tools, and techniques to project activities to meet the
+project requirements. Project management is accomplished through the appropriate application and integration of
+the 47 logically grouped project management processes, which are categorized into five Process Groups. These five
+Process Groups are:
+• Initiating,
+• Planning,
+• Executing,
+• Monitoring and Controlling, and
+• Closing.
 
 
-
-
-
-
+p38
 
 
 
