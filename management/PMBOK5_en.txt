@@ -1,4 +1,4 @@
-PMBOK5
+﻿PMBOK5
 p28
 
 Ch1. Intro
@@ -12,7 +12,7 @@ organization and/or project management team is responsible for determining what 
 
 What is a Project?
 A project is a temporary endeavor undertaken to create a unique product, service, or result. The temporary
-nature of projects indicates that a project has a definite beginning and end. The end is reached when the project�s
+nature of projects indicates that a project has a definite beginning and end. The end is reached when the project’s
 objectives have been achieved or when the project is terminated because its objectives will not or cannot be met,
 or when the need for the project no longer exists. A project may also be terminated if the client (customer, sponsor,
 or champion) wishes to terminate the project.
@@ -22,14 +22,217 @@ Project management is the application of knowledge, skills, tools, and technique
 project requirements. Project management is accomplished through the appropriate application and integration of
 the 47 logically grouped project management processes, which are categorized into five Process Groups. These five
 Process Groups are:
-� Initiating,
-� Planning,
-� Executing,
-� Monitoring and Controlling, and
-� Closing.
+• Initiating,
+• Planning,
+• Executing,
+• Monitoring and Controlling, and
+• Closing.
 
 
 p38
+A project management office (PMO) is a management structure that standardizes the project-related governance
+processes and facilitates the sharing of resources, methodologies, tools, and techniques. The responsibilities of a
+PMO can range from providing project management support functions to actually being responsible for the direct
+management of one or more projects.
+The PMO integrates data and information from corporate strategic projects and evaluates how higher level
+strategic objectives are being fulfilled. The PMO is the natural liaison between the organization’s portfolios,
+programs, projects, and the corporate measurement systems (e.g. balanced scorecard).
+
+In Management theory (Daft) Project Management's purpose is to overview and coordinate the work of
+several departments.
+
+A primary function of a PMO is to support project managers in a variety of ways which may include, but are not
+limited to:
+• Managing shared resources across all projects administered by the PMO;
+• Identifying and developing project management methodology, best practices, and standards;
+• Coaching, mentoring, training, and oversight;
+• Monitoring compliance with project management standards, policies, procedures, and templates by means
+of project audits;
+• Developing and managing project policies, procedures, templates, and other shared documentation
+(organizational process assets); and
+• Coordinating communication across projects.
+
+Relationship Between Project Management, Operations Management, and Organizational Strategy
+
+Operations evolve to support the day-to-day business, and are necessary to achieve strategic and tactical goals of the business.
+Operations require business process management.
+Changes in business operations may be the focus of a dedicated project — especially if there are substantial
+changes to business operations as a result of a new product or service delivery. 
+
+Operations are ongoing endeavors that produce repetitive outputs, with resources assigned to do basically the
+same set of tasks according to the standards institutionalized in a product life cycle. Unlike the ongoing nature of
+operations, projects are temporary endeavors.
+
+Operations management is an area of management concerned with ongoing production of goods and/or
+services. It involves ensuring that business operations continue efficiently by using the optimum resources needed
+and meeting customer demands. It is concerned with managing processes that transform inputs (e.g., materials,
+components, energy, and labor) into outputs (e.g., products, goods, and/or services).
+
+
+Operational stakeholders should be engaged and their needs identified as part of the stakeholder register, and
+their influence (positive or negative) should be addressed as part of the risk management plan.
+
+The following list includes examples of operational stakeholders (depending upon the business):
+Plant operators, Manufacturing line supervisors, Help desk staff, Production system support analysts, 
+Customer service representative, Salespersons, Maintenance workers, Telephone sales personnel, 
+Call center personnel, Retail workers, Line managers, and Training officers.
+
+Role of the Project Manager
+
+The project manager is the person assigned by the performing organization to lead the team that is responsible
+for achieving the project objectives. The role of a project manager is distinct from a functional manager or operations
+manager. Typically the functional manager is focused on providing management oversight for a functional or a
+business unit, and operations managers are responsible for ensuring that business operations are efficient.
+
+The project manager becomes the link between the strategy and the team.
+Projects are essential to the growth and survival of organizations. Projects create value in the form of 
+improved business processes, are indispensable in the development of new products and services.
+
+p46.
+Ch2. Project Life Cycle
+
+Organizational Structures
+
+Functional organization
+The classic functional organization is a hierarchy where each employee has one clear superior.
+Staff members are grouped by specialty, such as production, marketing, engineering, and accounting at the top level.
+Specialties may be further subdivided into focused functional units, such as mechanical and electrical engineering.
+Each department in a functional organization will do its project work independently of other departments.
+Project is coordinated on Function Managers level.
+
+Project Manager's Authority is little or none.
+Resource Availability is little or none.
+Functional Manager manages the project budget.
+Project Manager's Role is part-time.
+
+Matrix organizations can be classified as weak, balanced, or strong depending on the relative level
+of power and influence between functional and project managers.
+
+Weak matrix organizations maintain many of the characteristics of a functional organization, 
+and the role of the project manager is more of a coordinator or expediter. 
+A project expediter works as staff assistant and communications coordinator. The expediter cannot personally
+make or enforce decisions. Project coordinators have power to make some decisions, have some authority, and
+report to a higher-level manager.
+
+Weak matrix
+Project Manager's Authority is low.
+Resource Availability is low.
+Functional Manager manages the project budget.
+Project Manager's Role is part-time.
+
+
+
+Strong matrix organizations have many of the characteristics of the projectized organization,
+and have full-time project managers with considerable authority and full-time project administrative
+staff. While the balanced matrix organization recognizes the need for a project manager, it does not provide the
+project manager with the full authority over the project and project funding.
+
+Balanced matrix
+Project Manager's Authority is low to moderate.
+Resource Availability is low to moderate.
+Functional Manager and Project Manager manage the project budget together. 
+Project Manager's Role is full-time.
+
+
+Strong matrix
+Project Manager's Authority is moderate to high.
+Resource Availability is moderate to high.
+Project Manager manages the project budget. 
+Project Manager's Role is full-time.
+
+Strong Matrix has a PMO.
+
+
+In Projectized Organization project manager has a team and is fully authorized.
+
+Projectized Organization
+Project Manager's Authority is high to almost total.
+Resource Availability is high to almost total.
+Project Manager manages the project budget. 
+Project Manager's Role is full-time.
+
+Project Stakeholders and Governance
+A stakeholder is an individual, group, or organization who may affect, be affected by, or perceive itself to be
+affected by a decision, activity, or outcome of a project. Stakeholders may be actively involved in the project or have
+interests that may be positively or negatively affected by the performance or completion of the project. 
+
+
+Project governance - команда управления проектом.
+
+Stakeholders include all members of the project team as well as all interested entities that are internal or
+external to the organization. 
+The project manager should manage the influences of these various stakeholders in relation to the project
+requirements to ensure a successful outcome.
+Stakeholder identification is a continuous process throughout the entire project life cycle.
+
+Some examples of stakeholders:
+- Sponsor. A sponsor is the person or group who provides resources and support for the project and is
+accountable for enabling success. 
+For issues that are beyond the control of the project manager, the sponsor serves
+as an escalation path. The sponsor may also be involved in other important issues such as authorizing
+changes in scope, phase-end reviews, and go/no-go decisions when risks are particularly high.
+- Customers and users. Users are the persons or organizations who will use the project’s
+product, service, or result.
+- Sellers. Sellers are external companies that provide components or some services that are 
+necessary for the project.
+- Organizational groups. Organizational groups are internal stakeholders who are affected by the activities
+of the project team. These groups may include  marketing and sales, human resources, legal, finance, 
+operations, manufacturing, and customer service. 
+
+Project governance framework provides the project manager and team with
+structure, processes, decision-making models and tools for managing the project.
+
+Examples of the elements of a project governance framework include:
+• Project success and deliverable acceptance criteria;
+• Process to identify, escalate, and resolve issues that arise during the project;
+• Relationship among the project team, organizational groups, and external stakeholders;
+• Project organization chart that identifies project roles;
+• Processes and procedures for the communication of information;
+• Project decision-making processes;
+• Guidelines for aligning project governance and organizational strategy;
+• Project life cycle approach;
+• Process for stage gate or phase reviews;
+• Process for review and approval for changes to budget, scope, quality, and schedule which are beyond
+the authority of the project manager; and
+• Process to align internal stakeholders with project process requirements.
+
+Project Success
+Since projects are temporary in nature, the success of the project should be measured in terms of completing
+the project within the constraints of scope, time, cost, quality, resources, and risk as approved between the project
+managers and senior management. After project completion there may be a probation period to understand was a project successfull or not.
+It may be up 6 months. Sydney opera house was not successfull in terms of time and cost. But now it is a visit card of Sydney.
+And may be thought as a successfull project.
+
+The project manager is responsible and accountable for setting realistic and achievable boundaries for the project.
+
+Project Team.
+The project team includes the project manager and the group of individuals who act together in performing the
+work of the project to achieve its objectives. 
+
+p63.
+
+p74
+Ch3. Project Management Processes
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
