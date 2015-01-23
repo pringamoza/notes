@@ -1,0 +1,32 @@
+﻿Minimal room height is 210mm
+
+Wooden constructions should be situated at least 200mm from the ground.
+
+Wood supported on a concrete slab or basement columns must
+be separated by a moisture barrier or the wood must be treated.
+
+p32
+Corrosion-resistant fasteners such as those
+that are hot-dip galvanized or made of
+stainless steel should be used with treated wood.
+Regular nails or screws should not be
+used and electric galvanized fasteners should
+be avoided because the protective coating is
+too thin for long-term service.
+
+If preservative-treated lumber must be cut on
+the job site, the cut ends should be coated with
+a brush-on preservative until it is no longer
+absorbed into the wood. Wear gloves when handling treated wood and
+a mask when cutting it (as for the cutting of
+many materials).
+
+
+
+
+p.228
+Plumbing, Electrical and Appliances
+Notch in joist may be maximum 1/3 of it's depth.
+Notches are not permitted on the bottom of joists.
+Holes drilled in joists must not be larger than
+one-quarter the joist depth or closer than 50 mm 
