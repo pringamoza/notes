@@ -215,6 +215,604 @@ p74
 Ch3. Project Management Processes
 
 
+Project Management Process Groups.
+1. Initiating
+2. Planning
+3. Monitoring and Controlling
+4. Executing
+5. Closing
+
+The Process Groups are not project life cycle phases.
+
+Initiating Process Group
+The Initiating Process Group consists of those processes performed to define a new project or a new phase
+of an existing project by obtaining authorization to start the project or phase.
+Initial scope and initial financial resources are comited.
+
+Internal and external stakeholders are identified.
+PM is selected.
+
+All this info is reflected in project charter and stakeholder register.
+
+When the project charter is approved, the project becomes officially authorized.
+The project boundary is the interval between the time project is authorized and project's completion.
+
+Initiating Process Group helps the stakeholders to see if their expectations meet project's purposes.
+It gives a visibility about the project scope. 
+These processes help set the vision of the project—what is needed to be accomplished.
+The success criteria are verified. The project stakeholders are reviewed.
+And the decision to continue, delay or stop project is made.
+
+Involving the sponsors, customers, and other stakeholders during initiation creates a shared understanding of
+success criteria, and generally improves deliverable acceptance, customer satisfaction, and other stakeholder satisfaction.
+
+
+Planning Process Group
+The Planning Process Group consists of those processes performed to establish the total scope of the effort,
+define and refine the objectives, and develop the course of action required to attain those objectives.
+Project management plan and other project documents are developed in this process group.
+As more project information or characteristics are gathered and understood, additional planning will
+likely be required. Significant changes occurring throughout the project life cycle trigger a need to revisit one
+or more of the planning processes and possibly some of the initiating processes. This progressive detailing of
+the project management plan is called progressive elaboration, indicating that planning and documentation are
+iterative and ongoing activities.
+The main purpose of this process group is to delineate the strategy and tactics. 
+Deliberate planning makes path to complete the project transparent, so it is easier to get stakeholder engagement.
+These processes express how this will be done, setting the route to the desired objective.
+
+The project management plan and project documents developed as outputs from the Planning Process Group
+will explore all aspects of the scope, time, cost, quality, communications, human resources, risks, procurements,
+and stakeholder engagement.
+
+p.90
+Ch4. Project Integration Management
+
+Project Integration Management includes the processes to identify, define, combine, unify, and
+coordinate the various processes and project management activities 
+within the Project Management Process Groups.
+
+
+Project Integration Management includes making choices about resource allocation, 
+making trade-offs among competing objectives and alternatives, 
+and managing the interdependencies among the project management Knowledge Areas.
+
+There are six processes within this knowledge area:
+1. Develop Project Charter
+Project Charter is a document that authorizes the existence of the project and
+provides PM to apply organizational resources to project activities.
+
+The key benefit of this process is a well-defined project start and project boundaries, 
+creation of a formal record of the project, 
+and a direct way for senior management to formally accept and commit to the project.
+
+A project manager is identified and assigned as early as possible.
+Preferably development of project charter should prior of planning.
+The project charter should be authored by the sponsoring entity.
+
+The project charter provides the project manager 
+with the authority to plan and execute the project.
+It's better when PM participates in creating project charter.
+Thus he gets clearer understanding of project objectives.
+
+Inputs:
+4.1.1.1 Project Statement of Work
+The project statement of work (SOW) is a narrative description of products, services, 
+or results to be delivered by a project.
+SOW:
+Business need. Why the company needs this product? Will it meet some market needs?
+Or it will allow to take some technological advance?
+
+Product scope description. What the product should do? What results we want to see?
+
+Strategic plan. How this product will fit company strategy?
+
+4.1.1.2 Business Case
+Is the document that contains cost-benefit analysis 
+to justify and establish boundaries for the project.
+Basing on BC top management will make decision 
+should the company make this product or not.
+
+4.1.1.3 Agreements
+Agreements are used to define initial intentions for a project.
+Agreements may take the form of contracts (for external customer), service level agreements (SLA),
+verbal agreements, email, or other written agreements.
+
+4.1.1.4 Enterprise Environmental Factors
+Some examples:
+• Governmental standards, industry standards, or regulations
+• Organizational culture and structure
+
+4.1.1.5 Organizational Process Assets
+The organizational process assets include, but are not limited to:
+• Organizational standard processes, policies, and process definitions
+• Templates (e.g. for project charter)
+• Historical information and lessons learned knowledge base 
+(how similar tasks were done before, how long did the take and so on)
+
+Tools and Techniques
+4.1.2.1 Expert Judgment
+Expert judgment is applied to all technical and management details during this process.
+Such expertise may be provided by:
+• Consultants
+• Subject matter experts
+• PMO
+...
+
+4.1.2.2 Facilitation Techniques
+Brainstorming, conflict resolution, problem solving, and meeting management 
+are examples of key techniques used by facilitators 
+to help teams and individuals accomplish project activities.
+
+
+
+Outputs
+
+4.1.3.1 Project Charter
+The project charter is the document issued by the project initiator or sponsor 
+that formally authorizes the existence of a project and provides 
+the project manager with the authority to apply organizational resources to
+project activities.
+
+What project charter may contain:
+• Project purpose or justification 
+• Measurable project objectives (success criteria)
+• High-level requirements
+• High-level project description and boundaries
+• High-level risks
+• Summary milestone schedule
+• Summary budget
+• Stakeholder list
+• PM, his responsibility and authority level
+
+
+2. Develop Project Management Plan
+Project Management Plan is an integrated plan of all subsidiary plans.
+The project management plan defines 
+how the project is executed, monitored and controlled, and closed.
+
+Inputs:
+4.2.1.1 Project Charter
+At a minimum, the project charter should define the high-level boundaries of the project. 
+The project manager uses the project charter as the starting point
+for initial planning throughout the Initiating Process Group.
+
+4.2.1.2 Outputs from Other Processes in scope management
+
+
+4.2.1.3 Enterprise Environmental Factors
+see 4.1.1.4
+
+4.2.1.4 Organizational Process Assets
+see 4.1.1.5
+
+
+
+Tools and Techniques
+4.2.2.1 Expert Judgment
+• Prioritize the work on the project to ensure the project resources are 
+allocated to the appropriate work at the appropriate time.
+• Develop technical and management details to be included in the project management plan
+• Determine resources and skill levels needed to perform project work,
+• Determine which project documents will be subject to the formal change control process
+
+4.2.2.2 Facilitation Techniques
+see 4.1.2.2
+
+
+Outputs
+4.2.3.1 Project Management Plan
+Project baselines include, but are not limited to:
+• Scope baseline
+• Schedule baseline
+• Cost baseline
+Subsidiary plans include, but are not limited to:
+• Scope management plan
+• Cost management plan
+• Requirements management plan
+• Quality management plan
+
+
+
+3. Direct and Manage Project Work
+The process of performing work defined in PM Plan and implementing approved changes.
+
+
+
+Outputs
+4.3.3.1 Deliverables
+A deliverable is any unique and verifiable product, result or capability to perform 
+a service that is required to be produced to complete a process, 
+phase, or project. Deliverables are typically tangible components completed to
+meet the project objectives and can include elements of the project management plan.
+
+4.3.3.2 Work Performance Data
+Work performance data are the raw observations and measurements 
+identified during activities being performed to carry out the project work.
+
+
+4.3.3.3 Change Requests
+A change request is a formal proposal to modify any document, deliverable, or baseline.
+
+Requests for a change may include:
+• Corrective action — An intentional activity that realigns the performance of the project work with the
+project management plan;
+• Preventive action — An intentional activity that ensures the future performance of the project work is
+aligned with the project management plan;
+• Defect repair — An intentional activity to modify a nonconforming product or product component; and/or
+• Updates — Changes to formally controlled project documents, plans, etc., to reflect modified or additional
+ideas or content.
+
+4.3.3.4 Project Management Plan Updates
+Different plans may be updated.
+
+4.3.3.5 Project Documents Updates
+Project documents that may be updated:
+• Requirements documentation,
+• Project logs (issues, assumptions, etc.),
+• Risk register, and
+• Stakeholder register.
+
+
+
+
+
+
+
+
+
+
+4. Monitor and Control Project Work
+It is the process of tracking, reviewing, and reporting project
+progress against the performance objectives defined in the project management plan.
+
+5. Perform Integrated Change Control
+It is the process of reviewing all change requests; approving
+changes and managing changes to deliverables.	
+
+6. Close Project or Phase - The process of finalizing all 
+activities across all of the Project Management Process Groups 
+to formally complete the phase or project.
+
+
+p.132
+Ch5. Scope Management
+
+In the project context, the term scope can refer to:
+• Product scope. The features and functions that characterize a product, service, or result;
+• Project scope. The work performed to deliver a product, service, or result with the specified features and
+functions. The term project scope is sometimes viewed as including product scope.
+
+
+5.1 Plan Scope Management
+Plan Scope Management is the process of creating a scope management plan that documents how the project
+scope will be defined, validated, and controlled. 
+The key benefit of this process is that it provides guidance and
+direction on how scope will be managed throughout the project.
+
+Outputs
+5.1.3.1 Scope Management Plan
+The scope management plan is a component of the project management plan that describes how the
+scope will be defined, developed, monitored, controlled, and verified.
+
+The components of a scope management plan include:
+• Process for preparing a detailed project scope statement;
+• Process that enables the creation of the WBS from the detailed project scope statement;
+• Process that establishes how the WBS will be maintained and approved;
+• Process that specifies how formal acceptance of the completed project deliverables will be obtained; and
+• Process to control how requests for changes to the detailed project scope statement will be processed.
+
+5.1.3.2 Requirements Management Plan
+The requirements management plan is a component of the project management plan that describes how
+requirements will be analyzed, documented, and managed.
+
+Components of the requirements management plan can include:
+• How requirements activities will be planned, tracked, and reported;
+• Configuration management activities such as: how changes to the product will be initiated, how impacts
+will be analyzed, how they will be traced, tracked, and reported, as well as the authorization levels
+required to approve these changes;
+• Requirements prioritization process;
+• Product metrics that will be used and the rationale for using them; and
+• Traceability structure to reflect which requirement attributes will be captured on the traceability matrix.
+
+5.2 Collect Requirements
+Collect Requirements is the process of determining, documenting, and managing stakeholder needs and
+requirements to meet project objectives. The key benefit of this process is that it provides the basis for defining and
+managing the project scope including product scope.
+
+Requirements become the foundation of the WBS.
+
+Outputs
+5.2.3.1 Requirements Documentation
+Requirements documentation describes how individual requirements meet the business need for the project.
+Requirements may start out at a high level and become progressively more detailed as more about the requirements
+is known. Before being baselined, requirements need to be unambiguous (measurable and testable), traceable,
+complete, consistent, and acceptable to key stakeholders.
+
+5.2.3.2 Requirements Traceability Matrix
+The requirements traceability matrix is a grid that links product requirements from their origin to the
+deliverables that satisfy them. The implementation of a requirements traceability matrix helps ensure that each
+requirement adds business value by linking it to the business and project objectives.
+
+5.3 Define Scope
+Define Scope is the process of developing a detailed description of the project and product. The key benefit of
+this process is that it describes the project, service, or result boundaries by defining which of the requirements
+collected will be included in and excluded from the project scope.
+
+Outputs
+5.3.3.1 Project Scope Statement
+The project scope statement is the description of the project scope, major deliverables, assumptions, and
+constraints.
+The detailed project scope statement includes the following:
+• Product scope description. Progressively elaborates the characteristics of the product, service, or result
+described in the project charter and requirements documentation. (TZ)
+• Acceptance criteria. A set of conditions that is required to be met before deliverables are accepted.
+• Any unique and verifiable product, result, or capability to perform a service that is required
+to be produced to complete a process, phase, or project. 
+Deliverables also include ancillary results.
+• Project exclusion.
+Explicitly stating what is out of
+scope for the project helps to manage stakeholders' expectations.
+• Constraints. A limiting factor that affects the execution of a project or process.
+Like budget constraints, schedule milestones
+• Assumptions. A factor in the planning process that is considered to be true, real, or certain, without
+proof or demonstration.
+
+5.3.3.2 Project Documents Updates
+Project documents that may be updated:
+• Stakeholder register,
+• Requirements documentation, and
+• Requirements traceability matrix.
+
+
+5.4 Create WBS
+Create WBS is the process of subdividing project deliverables and project work into smaller, more manageable
+components.
+
+The WBS is a hierarchical decomposition of the total scope of work to be carried out by the project team to
+accomplish the project objectives and create the required deliverables. The WBS organizes and defines the total
+scope of the project, and represents the work specified in the current approved project scope statement.
+
+The planned work is contained within the lowest level of WBS components, which are called work packages.
+Small tasks are more manageable. They can be estimated. It's easier to plan budget.
+Small task may be assigned to only one person who will be responsible for it.
+
+Outputs
+5.4.3.1 Scope Baseline
+The scope baseline is the approved version of a scope statement, work breakdown structure (WBS), and its
+associated WBS dictionary, that can be changed only through formal change control procedures and is used as a
+basis for comparison.
+Components of the scope baseline include:
+• Project scope statement. The project scope statement includes the description of the project scope,
+major deliverables, assumptions, and constraints.
+• WBS. The WBS is a hierarchical decomposition of the total scope of work to be carried out by the project
+team to accomplish the project objectives and create the required deliverables.
+
+The WBS is finalized by
+assigning each work package to a control account and establishing a unique identifier for that work
+package from a code of accounts. These identifiers provide a structure for hierarchical summation
+of costs, schedule, and resource information.
+
+• WBS dictionary. The WBS dictionary is a document that provides detailed deliverable, activity, and
+scheduling information about each component in the WBS.
+
+
+5.4.3.2 Project Documents Updates
+Project documents that may be updated include, but are not limited to, requirements documentation, which may
+need to be updated to include approved changes. If approved change requests result from the Create WBS process,
+then the requirements documentation may need to be updated to include approved changes.
+
+p.160
+5.5 Validate Scope
+Validate Scope is the process of formalizing acceptance of the completed project deliverables. The key benefit
+of this process is that it brings objectivity to the acceptance process and increases the chance of final product,
+service, or result acceptance by validating each deliverable.
+
+The verified deliverables obtained from the Control Quality process are reviewed with the customer or sponsor
+to ensure that they are completed satisfactorily and have received formal acceptance of the deliverables by the
+customer or sponsor.
+
+The Validate Scope process differs from the Control Quality process in that the former is primarily concerned
+with acceptance of the deliverables, while quality control is primarily concerned with correctness of the deliverables
+and meeting the quality requirements specified for the deliverables. Control Quality is generally performed before
+Validate Scope, although the two processes may be performed in parallel.
+
+Outputs
+5.5.3.1 Accepted Deliverables
+Deliverables that meet the acceptance criteria are formally signed off and approved by the customer or sponsor.
+Formal documentation received from the customer or sponsor acknowledging formal stakeholder acceptance of
+the project’s deliverables is forwarded to the Close Project or Phase process.
+
+5.5.3.2 Change Requests
+The completed deliverables that have not been formally accepted are documented, along with the reasons
+for nonacceptance of those deliverables. Those deliverables may require a change request for defect repair. The
+change requests are processed for review and disposition through the Perform Integrated Change Control process.
+
+5.5.3.3 Work Performance Information
+Work performance information includes information about project progress, such as which deliverables
+have started, their progress, which deliverables have finished, or which have been accepted. This information is
+documented as described in Section 10.3.3.1 and communicated to stakeholders.
+
+5.5.3.4 Project Documents Updates
+Project documents that may be updated as a result of the Validate Scope process include any documents that
+define the product or report status on product completion. Verified project documents may require approvals from
+the customer or sponsor in the form of signatures or signoffs.
+
+5.6 Control Scope
+Control Scope is the process of monitoring the status of the project and product scope and managing changes to
+the scope baseline. The key benefit of this process is that it allows the scope baseline to be maintained throughout
+the project.
+
+Controlling the project scope ensures all requested changes and recommended corrective or preventive actions
+are processed through the Perform Integrated Change Control process (see Section 4.5). Control Scope is also used
+to manage the actual changes when they occur and is integrated with the other control processes. The uncontrolled
+expansion to product or project scope without adjustments to time, cost, and resources is referred to as scope
+creep.
+
+Outputs
+5.6.3.1 Work Performance Information
+Work performance information produced includes correlated and contextualized information on how the project
+scope is performing compared to the scope baseline. It can include the categories of the changes received, the
+identified scope variances and their causes, how they impact schedule or cost, and the forecast of the future scope
+performance. This information provides a foundation for making scope decisions.
+
+5.6.3.2 Change Requests
+Analysis of scope performance can result in a change request to the scope baseline or other components
+of the project management plan. Change requests can include preventive or corrective actions, defect repairs,
+or enhancement requests. Change requests are processed for review and disposition according to the Perform
+Integrated Change Control process (Section 4.5).
+
+5.6.3.3 Project Management Plan Updates
+Project management plan updates may include:
+• Scope Baseline Updates. If the approved change requests have an effect on the project scope, then
+the scope statement, the WBS, and the WBS dictionary are revised and reissued to reflect the approved
+changes through Perform Integrated Change Control process.
+• Other Baseline Updates. If the approved change requests have an effect on the project besides the
+project scope, then the corresponding cost baseline and schedule baselines are revised and reissued to
+reflect the approved changes.
+
+5.6.3.4 Project Documents Updates
+Project documents that may be updated include:
+• Requirements documentation, and
+• Requirements traceability matrix.
+
+5.6.3.5 Organizational Process Assets Updates
+Organizational process assets that may be updated include:
+• Causes of variances,
+• Corrective action chosen and the reasons, and
+• Other types of lessons learned from project scope control.
+
+
+
+
+
+
+
+
+
+p.282
+Ch9. Project Human Resource Management
+
+
+
+
+p.418
+Ch13. Project Stakeholder Management
+Project Stakeholder Management includes the processes required to identify the people, 
+groups, or organizations that could impact or be impacted by the project, 
+to analyze stakeholder expectations and their impact on the project, 
+and to develop appropriate management strategies for effectively engaging stakeholders
+in project decisions and execution. 
+Stakeholder management also focuses on continuous communication with
+stakeholders to understand their needs and expectations, 
+addressing issues as they occur, managing conflicting
+interests and fostering appropriate stakeholder engagement in project decisions and activities. 
+Stakeholder satisfaction should be managed as a key project objective.
+
+There are four Project Stakeholder Management processes:
+13.1 Identify Stakeholders
+
+Inputs:
+1 Project Charter
+2 Procurement Documents
+3 Enterprise Environmental Factors
+4 Organizational Process Assets
+
+Tools & Techniques
+1 Stakeholder analysis
+2 Expert judgment
+3 Meetings
+
+Outputs:
+1 Stakeholder Register
+
+
+
+
+
+
+
+
+
+13.2 Plan Stakeholder Management
+The process of developing appropriate management strategies to
+effectively engage stakeholders throughout the project life cycle, 
+based on the analysis of their needs,
+interests, and potential impact on project success.
+
+Inputs
+1 Project management plan
+2 Stakeholder register
+3 Enterprise environmental factors
+4 Organizational process assets
+
+Tools & Techniques
+1 Expert judgment
+2 Meetings
+3 Analytical techniques
+
+Outputs
+1 Stakeholder management plan
+2 Project documents updates
+
+13.3 Manage Stakeholder Engagement
+The process of communicating and working with stakeholders
+to meet their needs/expectations, address issues as they occur.
+
+
+Inputs
+.1 Stakeholder management plan
+.2 Communications management
+plan
+.3 Change log
+.4 Organizational process assets
+
+
+Tools & Techniques
+.1 Communication methods
+.2 Interpersonal skills
+.3 Management skills
+
+
+Outputs
+.1 Issue log
+.2 Change requests
+.3 Project management plan
+updates
+.4 Project documents updates
+.5 Organizational process assets
+updates
+
+
+
+
+
+13.4 Control Stakeholder Engagement
+The process of monitoring overall project stakeholder
+relationships and adjusting strategies and plans for engaging stakeholders.
+
+
+Inputs
+.1 Project management plan
+.2 Issue log
+.3 Work performance data
+.4 Project documents
+
+Tools & Techniques
+.1 Information management
+systems
+.2 Expert judgment
+.3 Meetings
+
+
+Outputs
+.1 Work performance
+information
+.2 Change requests
+.3 Project management plan
+updates
+.4 Project documents updates
+.5 Organizational process assets
+updates
 
 
 
@@ -238,13 +836,146 @@ Ch3. Project Management Processes
 
 
 
+FF MBA in PM
+
+Stakeholders
+
+Customers, decision makers, vendors, and employees obviously
+belong in this group, but, in a larger sense, anyone who participates in
+the project or is impacted by its result is a stakeholder.
+
+
+Identifying stakeholders is a primary task because all the important
+decisions during the definition and planning stages of the project are
+made by these stakeholders. These are the people who, under the
+guidance of the project manager, establish agreements on the goals
+and constraints of the project, construct the strategies and schedules,
+and approve the budget.
+
+There are five primary stakeholders — project manager,
+project team, functional management, sponsor, and customer.
+
+
+It’s not enough to deliver on the customer’s demands; 
+successful projects have to meet all stakeholder expectations.
+
+When searching for stakeholders, rather than asking,
+"Who is the customer?" or "Who is the project team?" ask, "Who
+will make a contribution?"
+
+
+Stakeholder roles: PM
+PM is planning the project, identifying the
+stakeholders, watching for cost overruns, or refereeing disputes, the
+project manager has the primary role in any project.
+
+The project manager must ask questions like: "What is my authority?"
+"Who do I report to?" “Does this mean I'll be relieved of other responsibilities?"
+"What are my expectations?" If you are a project manager,
+you are an important stakeholder, too. Don't forget to satisfy yourself!
+
+
+Stakeholder roles: Project Team
+Who will do the work? The answer is the project team, in
+tandem with the project manager. All groups and individuals who contribute
+time, skills, and effort to the project are considered team members.
+In addition to the people from the company assigned to the
+project, these can include contractors, vendors, and even customers.
+
+
+Customers also may perform some project tasks.
+For example, on information systems projects, customers are often active
+participants in the system definition and design phases.
+
+Determining who will be part of the team happens at the start of the
+project, during definition and planning. This process is complete when
+the team members have agreed to their responsibilities and roles on
+the project.
+
+Let's look at the steps in this process, from start to finish:
+• Tasks are broken down until the different skill requirements
+emerge.
+• The project manager and sponsor then begin recruiting people and
+organizations with the necessary skills.
+• The project manager negotiates the involvement of these new team
+members.
+• The manager clarifies the plan and ensures that all members
+understand it.
+• Team member responsibilities are documented
+
+Team members with minor roles should be informed about any progress
+related to their work before they actually get involved, but
+they won't need to participate in every weekly status meeting.
+If these members will make the essential contribution to the project 
+you will not only want to keep them aware of progress related to their tasks, 
+but you will have to consult with them concerning their availability to your
+project.
+
+
+Stakeholder roles: Management
+
+Management, in this case, refers to functional management, also known as line management.
+
+"Management support" as one of the commonly
+stated characteristics of successful projects. When asked to
+expand on what kind of management support is most helpful, most
+project managers describe help in "getting the right people at the right
+time" and "timely decisions based on the facts presented by the project
+team." These perceptions highlight the contributions that functional
+management makes to the project team. They can also guide the project
+manager in identifying which functional managers might be stakeholders
+on a specific project.
+
+The project manager must work closely with functional managers
+in getting the best people for the job. After management has initiated a
+project and described its scope, the project manager designs a work
+plan that details what skills are required for the project and which
+departments the workers possessing these skills will come from.
+Armed with this information, the project manager is now ready to
+identify the managers of those departments; these are the managers
+who will have control over the workers assigned to the project team
+and will decide when they are available.
+
+Identifying the managers who will make decisions can be tricky. 
+Start with the obvious ones:
+• Managers whose operations will be affected by the outcome of the
+project
+• Managers representing other stakeholders, such as the customer
+• The manager to whom the project manager reports
+
+
+To identify management stakeholders ask these questions:
+Which managers will make decisions? 
+Who has veto power? 
+Who is indirectly affected by these decisions?
 
 
 
+Stakeholder roles: Sponsor
+
+The sponsor's position and authority in the organization
+are independent of any project, which enables the sponsor to act
+as a connection between a project and the normal decision-making
+process.
+
+The sponsor provides the authority that the project manager often lacks.
+
+The sponsor's primary task is to help the project
+team be successful. The best sponsors know they aren't sponsoring a
+project, they are sponsoring the project manager and the project team.
+The sponsor's job is to help these people be successful. That's why
+another term for sponsor is champion, as in "I am championing this
+project team and I will not let anything stand in their way!"
+
+Sponsor must review and approve the project plan. 
+The sponsor must endorse the cost-schedule-quality equilibrium represented in the plan.
+
+Having a known and active sponsor was the number
+one reason for a project's success, because problems were given
+timely attention by a manager who had authority to effect a solution.
 
 
-
-
+Stakeholder roles: The Customer
 
 
 
